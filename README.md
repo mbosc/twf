@@ -5,7 +5,7 @@ Transfer without Forgetting<br/>ECCV 2022
 [Paper link on ArXiv](https://arxiv.org/pdf/2206.00388.pdf) • Powered by [Mammoth](https://github.com/aimagelab/mammoth)
 
 <p align="center">
-  <img  src=".github/model.png" alt="Wroom">
+  <img width=700 src=".github/model.png">
 </p>
 
 ## Instructions
